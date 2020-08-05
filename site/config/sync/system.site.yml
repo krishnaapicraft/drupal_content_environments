@@ -1,0 +1,14 @@
+uuid: 26005d20-e1b7-4d8f-9b13-df802e306713
+name: 'Drupal 8 Basic site'
+mail: krishnakanth@digitalapicraft.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
